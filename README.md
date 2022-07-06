@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Red-Dolphin
-- 👀 I’m interested in ...Mern Stack Development
+- 👀 I’m interested in ...Futter Development
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...troul76023@gmail.com
